@@ -1,0 +1,81 @@
+Annual Precipitation Report
+
+Weather Station         Elevation Precipitation
+AGUA CANYON.............   8900       26.1
+BEAVER DAMS.............   8000       28.1
+BEAVER DIVIDE...........   8280       30.5
+BEN LOMOND PEAK.........   8000       64.1
+BEN LOMOND TRAIL........   6000       44.5
+BIG FLAT................  10290       33.9
+BLACK FLAT-U.M. CK......   9400       22.4
+BOX CREEK...............   9800       26.5
+BRIGHTON................   8750         44
+BROWN DUCK..............  10600         35
+BUCK FLAT...............   9800       32.2
+BUG LAKE................   7950       30.4
+CAMP JACKSON............   8600       30.7
+CASTLE VALLEY...........   9580       26.2
+CHALK CREEK #1..........   9100       41.3
+CHALK CREEK #2..........   8200       29.6
+CHEPETA.................  10300       31.4
+CLEAR CREEK #1..........   9200       30.8
+CLEAR CREEK #2..........   8300       26.6
+CURRANT CREEK...........   8000       23.5
+DANIELS-STRAWBERRY......   8000       31.4
+DILL'S CAMP.............   9200       29.2
+DONKEY RESERVOIR........   9800       20.9
+DRY BREAD POND..........   8350       32.8
+DRY FORK................   7160         35
+EAST WILLOW CREEK.......   8250       20.4
+FARMINGTON..............   8000       53.1
+FARNSWORTH LAKE.........   9600       33.7
+FIVE POINTS LAKE........  10920       35.5
+GOOSEBERRY R.S..........   7920       26.3
+HARDSCRABBLE............   7250       45.6
+HARRIS FLAT.............   7800       20.2
+HAYDEN FORK.............   9100       35.7
+HEWINTA.................   9500       27.9
+HICKERSON PARK..........   9100       18.5
+HOLE-IN-ROCK............   9150       19.4
+HORSE RIDGE.............   8160       37.1
+INDIAN CANYON...........   9100       23.4
+KIMBERLY MINE...........   9300       34.8
+KING'S CABIN............   8730       25.7
+KOLOB...................   9250       33.6
+LAKEFORK #1.............  10100       26.7
+LAKEFORK BASIN..........  10900         39
+LASAL MOUNTAIN..........   9850       35.9
+LILY LAKE...............   9050       30.7
+LITTLE BEAR.............   6550       36.6
+LITTLE GRASSY...........   6100       24.3
+LONG FLAT...............   8000       22.5
+LONG VALLEY JCT.........   7360       20.8
+LOOKOUT PEAK............   8200       44.9
+MAMMOTH-COTTONWOOD......   8800       27.6
+MERCHANT VALLEY.........   8750       29.3
+MIDWAY VALLEY...........   9800       37.2
+MILL-D NORTH............   8960       42.3
+MINING FORK.............   8000       40.6
+MONTE CRISTO............   8960       40.3
+MOSBY MTN...............   9500       28.6
+PARLEY'S SUMMIT.........   7500       34.4
+PAYSON R.S..............   8050       27.4
+PICKLE KEG..............   9600       30.6
+PINE CREEK..............   8800       32.3
+RED PINE RIDGE..........   9200       30.1
+ROCK CREEK..............   7900       23.7
+ROCKY BASIN-SETTLEMENT..   8900       41.9
+SEELEY CREEK............  10000       24.8
+SMITH & MOREHOUSE.......   7600       32.6
+SNOWBIRD................   9640       56.5
+STEEL CREEK PARK........  10100       30.9
+STRAWBERRY DIVIDE.......   8400       33.4
+THAYNES CANYON..........   9200         37
+TIMPANOGOS DIVIDE.......   8140       39.1
+TONY GROVE LAKE.........   8400       50.3
+TRIAL LAKE..............   9960       41.8
+TROUT CREEK.............   9400       27.3
+VERNON CREEK............   7500       25.5
+WEBSTER FLAT............   9200       31.3
+WHITE RIVER #1..........   8550       22.9
+WIDTSOE #3..............   9500       24.3

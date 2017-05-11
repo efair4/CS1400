@@ -1,0 +1,51 @@
+4708708 Alabama
+698473 Alaska
+6595778 Arizona
+2889450 Arkansas
+36961664 California
+5024748 Colorado
+3518288 Connecticut
+885122 Delaware
+599657 District of Columbia
+18537969 Florida
+9829211 Georgia
+1295178 Hawaii
+1545801 Idaho
+12910409 Illinois
+6423113 Indiana
+3007856 Iowa
+2818747 Kansas
+4314113 Kentucky
+4492076 Louisiana
+1318301 Maine
+5699478 Maryland
+6593587 Massachusetts
+9969727 Michigan
+5266214 Minnesota
+2951996 Mississippi
+5987580 Missouri
+974989 Montana
+1796619 Nebraska
+2643085 Nevada
+1324575 New Hampshire
+8707739 New Jersey
+2009671 New Mexico
+19541453 New York
+9380884 North Carolina
+646844 North Dakota
+11542645 Ohio
+3687050 Oklahoma
+3825657 Oregon
+12604767 Pennsylvania
+1053209 Rhode Island
+4561242 South Carolina
+812383 South Dakota
+6296254 Tennessee
+24782302 Texas
+2784572 Utah
+621760 Vermont
+7882590 Virginia
+6664195 Washington
+1819777 West Virginia
+5654774 Wisconsin
+544270 Wyoming
